@@ -25,7 +25,7 @@ pip install requests beautifulsoup4 selenium
 
 2. Download a compatible version of [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/)
 
-3. Update `CHROME_PATH`: Path to your Chrome executable.
+3. Update `CHROME_PATH` to your Chrome executable.
 4. Set `CHROME_DRIVER_PATH` to your ChromeDriver executable.
 5. Optionaly set `DOWNLOAD_DIR`
 
@@ -45,4 +45,4 @@ python clm.py
 
 ## TODO
 
--Fix issue with Chrome downloading files in wrong directory
+- Fix issue with Chrome downloading files in wrong directory
