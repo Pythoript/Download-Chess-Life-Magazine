@@ -27,6 +27,7 @@ pip install requests beautifulsoup4 selenium
 
 3. Update `CHROME_PATH`: Path to your Chrome executable.
 4. Set `CHROME_DRIVER_PATH` to your ChromeDriver executable.
+5. Optionaly set `DOWNLOAD_DIR`
 
 ## Usage
 
